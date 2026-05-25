@@ -1,16 +1,76 @@
-## Hi there 👋
+# PRODA Intelligence
 
-<!--
-**prodaintelligence-glitch/prodaintelligence-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Inteligência aplicada à transformação digital.
 
-Here are some ideas to get you started:
+A PRODA Intelligence desenvolve soluções tecnológicas voltadas para:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Gestão educacional
+- Inteligência Artificial aplicada
+- Automação de processos
+- Ciência de dados
+- Analytics
+- Transformação digital institucional
+
+---
+
+## Áreas de atuação
+
+### Educação e Gestão
+- Gestão de formações
+- Ferramentas digitais educacionais
+- Capacitação profissional
+- Processos educacionais inteligentes
+
+### Inteligência Artificial
+- Assistentes inteligentes
+- Automação com IA
+- Chatbots
+- IA aplicada à gestão
+
+### Dados e Analytics
+- Dashboards
+- Business Intelligence
+- Indicadores estratégicos
+- Ciência de dados
+
+### Automação
+- Fluxos automatizados
+- Integrações
+- Processos digitais
+- Otimização operacional
+
+---
+
+## Tecnologias
+
+- Python
+- React
+- Node.js
+- PostgreSQL
+- Power BI
+- Inteligência Artificial
+- GitHub
+- APIs e automações
+
+---
+
+## Em desenvolvimento
+
+- Plataforma de gestão de formações
+- Sistemas inteligentes educacionais
+- Dashboards institucionais
+- Ferramentas com IA
+- Automação de processos
+
+---
+
+## Contato
+
+📩 prodaintelligence@gmail.com
+
+🌐 prodaintelligence.com.br
+
+---
+
+# PRODA Intelligence
+### Inteligência aplicada à transformação digital.
