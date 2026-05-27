@@ -44,6 +44,7 @@ A PRODA Intelligence desenvolve soluções tecnológicas voltadas para inovaçã
 
 ---
 
+<--
 # Tecnologias
 
 <p>
@@ -61,7 +62,7 @@ A PRODA Intelligence desenvolve soluções tecnológicas voltadas para inovaçã
 <img src="https://img.shields.io/badge/Artificial_Intelligence-003366?style=for-the-badge"/>
 
 </p>
-
+-->
 ---
 
 # Repositórios estratégicos
