@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="PRODA Intelligence Banner"/>
+  <img src="prodaintelligence-glitch/banner.png" alt="PRODA Intelligence Banner"/>
 </p>
 
 # PRODA Intelligence
